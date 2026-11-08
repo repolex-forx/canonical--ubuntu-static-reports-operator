@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/ubuntu-static-reports-operator/commit/ae8fafd2478e909a2cfc63f04384daeeb26bb718",
       "git:hexsha": "ae8fafd2478e909a2cfc63f04384daeeb26bb718",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "rev113"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "rev113",
+      "repolex:parsedAt": "2026-11-08T19:11:06.059419+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/ubuntu-static-reports-operator/commit/8cb9f7431622eca9c72e0a56581a366f94fd9f08",
