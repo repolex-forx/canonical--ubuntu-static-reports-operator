@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "ubuntu-static-reports-operator",
+  "versions": [
+    {
+      "commit": "ae8fafd2478e909a2cfc63f04384daeeb26bb718",
+      "tag": "rev113",
+      "parsed_at": "2026-11-08T19:11:06.097563+00:00"
+    }
+  ]
+}
