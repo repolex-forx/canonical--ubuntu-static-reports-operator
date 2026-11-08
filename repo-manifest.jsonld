@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/ubuntu-static-reports-operator/commit/ae8fafd2478e909a2cfc63f04384daeeb26bb718",
       "git:hexsha": "ae8fafd2478e909a2cfc63f04384daeeb26bb718",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "rev113"
     },
     {
